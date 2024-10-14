@@ -43,16 +43,17 @@ The dataset used for this project contains medical risk factors and patient info
 - Employed GridSearchCV to find optimal parameters for our Decision Tree, yielding 79% accuracy with an AUC score of 0.7543.
 
 ## Performance Evaluation:
-- Confusion Matrix: Visualized performance across all models to identify sensitivity and specificity.
-- ROC Curve: Plotted ROC curves for each iteration, demonstrating significant improvements as we optimized the model.
+#### Confusion Matrix: 
+- Visualized performance across all models to identify sensitivity and specificity.
+#### ROC Curve: 
+- Plotted ROC curves for each iteration, demonstrating significant improvements as we optimized the model.
 
 ## Results
-- The optimized Decision Tree (with GridSearchCV) achieved the following performance metrics:
-
-Accuracy: 79%
-AUC Score: 0.7543
-F1 Score: Higher compared to the baseline model
-Recall and Precision: Improved with hyperparameter tuning and pruning
+The optimized Decision Tree (with GridSearchCV) achieved the following performance metrics:
+#### Accuracy: 79%
+#### AUC Score: 0.7543
+#### F1 Score: Higher compared to the baseline model
+#### Recall and Precision: Improved with hyperparameter tuning and pruning
 
 Based on these results, the Decision Tree model (with GridSearchCV) was the best-performing model and can be reliably used for early heart disease prediction.
 

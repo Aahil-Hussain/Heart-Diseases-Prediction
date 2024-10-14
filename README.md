@@ -1,14 +1,11 @@
-# Heart-Diseases-Prediction
+# Heart Disease Prediction Using Decision Tree Classifier
 
-## Heart Disease Prediction Using Decision Tree Classifier
+# Project Overview:
+Heart disease is a significant health concern worldwide, primarily due to unhealthy lifestyle choices. Early detection is crucial, as it can lead to timely intervention and more effective treatment. This project leverages machine learning techniques to predict the presence of heart disease, allowing for quicker diagnosis and potentially improving patient outcomes.
+In this study, we experiment with a heart disease dataset to explore various machine learning algorithms and build an optimized model, ultimately aiming to predict the likelihood of heart disease with high accuracy. Our analysis focuses on the Decision Tree classifier, with methods for model improvement, such as pruning and hyperparameter tuning.
 
-# Project Overview
-## Heart disease is a significant health concern worldwide, primarily due to unhealthy lifestyle choices. Early detection is crucial, as it can lead to timely intervention and more effective treatment. This project leverages machine learning techniques to predict the presence of heart disease, allowing for quicker diagnosis and potentially improving patient outcomes.
-## In this study, we experiment with a heart disease dataset to explore various machine learning algorithms and build an optimized model, ultimately aiming to predict the likelihood of heart disease with high accuracy. Our analysis focuses on the Decision Tree classifier, with methods for model improvement, such as pruning and hyperparameter tuning.
-
-# Dataset
+# Dataset:
 The dataset used for this project contains medical risk factors and patient information. Here are the main features:
-
 - Age: Patient's age in years
 - Gender: Patient's gender (0 = Male, 1 = Female)
 - Chest Pain: Type of chest pain experienced (0–3)

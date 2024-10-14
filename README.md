@@ -37,7 +37,7 @@ The dataset used for this project contains medical risk factors and patient info
 - Plotted the ROC curve, showing an AUC score of 0.7105.
 
 ### Model Improvement:
-- Pruning: Reduced tree complexity to prevent overfitting, increasing accuracy to 76% and achieving an AUC score of 0.7389.
+-- Pruning: Reduced tree complexity to prevent overfitting, increasing accuracy to 76% and achieving an AUC score of 0.7389.
 - Hyperparameter Tuning: Employed GridSearchCV to find optimal parameters for our Decision Tree, yielding 79% accuracy with an AUC score of 0.7543.
 
 ## Performance Evaluation:
